@@ -1,0 +1,9 @@
+<br>
+<br>
+<hr>
+<h1 style="text-align: center; color: royalblue">this site is done by <span style="color: darkorange">NetMechanics</span></h1>
+<h3 style="text-align: center; color: royalblue">version <span style="color: darkorange">{{ version }}</span></h3>
+
+<hr>
+
+<a href="{{ me.link }}" target="_blank" style="position: fixed; bottom: 5px; right: 5px">{{ me.name }}</a>
